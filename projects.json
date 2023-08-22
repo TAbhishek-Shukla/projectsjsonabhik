@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {  "id":1,
+      "date": "02/03/2023",
+      "title": "MOVIETIPIA",
+      "description": "This is a simple movie website user's can get information about the movies by searching the name. it uses free OMDB Api to provide us the informations related to the choosen movie.",
+      "url": "https://movieapp-23.vercel.app/",
+      "imgSrc": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    },
+
+    {  "id":2,
+      "date": "11/04/2023",
+      "title": "NEWSTOPIA",
+      "description": "This is news providing react website for user's to check out technology related latest news updates. this website uses free api to provide user's latest news updates.",
+      "url": "https://tech-news-app23.vercel.app/",
+      "imgSrc": "https://images.unsplash.com/photo-1546422904-90eab23c3d7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80"
+    },
+    { "id":3,
+      "date": "15/05/2022",
+      "title": "XCrypto",
+      "description": "This is crypto currency tracking website such as exchage rates, currency scenerio of market related to specific crypto currency etc. this provides user's fair idea of crypto currency trends and prices.",
+      "url": "https://crypto-vision-eight.vercel.app",
+      "imgSrc": "https://images.unsplash.com/photo-1613575998061-0f59337425f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    },
+
+    { "id":4,
+      "date": "17/06/2023",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://github.com/TAbhishek-Shukla/NEWSTOPIA-Technews_react_app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    { "id":5,
+      "date": "20/07/2022",
+      "title": "Pizzahut Menu",
+      "description": "This is the simple menu based react app for customers about the pizza shop menu's to reduce the dependency on paper based menu card after the covid-19",
+      "url": "https://pizza-hut-menu-website.vercel.app/",
+      "imgSrc": "https://images.unsplash.com/photo-1638405988003-0c2621c4d7ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    }
+    ,
+    { "id":6,
+    "date": "17/10/2022",
+    "title": "REACT CART",
+    "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+    "url": "https://github.com/TAbhishek-Shukla/NEWSTOPIA-Technews_react_app",
+    "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+  }
+  ]
+}
